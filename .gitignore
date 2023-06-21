@@ -7,3 +7,6 @@ cora/raw/ind.cora.test.index
 cora/raw/ind.cora.graph
 cora/raw/ind.cora.ally
 cora/raw/ind.cora.allx
+GraphSAGE/__pycache__/data.cpython-37.pyc
+GraphSAGE/__pycache__/net.cpython-37.pyc
+GraphSAGE/__pycache__/sampling.cpython-37.pyc
