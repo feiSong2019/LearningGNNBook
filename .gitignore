@@ -25,3 +25,17 @@ autoEncoder/__pycache__/autoencoder.cpython-37.pyc
 .gitignore
 .gitignore
 autoEncoder/__pycache__/dataset.cpython-37.pyc
+reference/data/cora/ind.cora.allx
+reference/data/cora/ind.cora.ally
+reference/data/cora/ind.cora.graph
+.gitignore
+reference/data/cora/ind.cora.test.index
+.gitignore
+reference/data/cora/ind.cora.tx
+.gitignore
+reference/data/cora/ind.cora.ty
+reference/data/cora/ind.cora.x
+.gitignore
+.gitignore
+reference/data/cora/ind.cora.y
+reference/勘误.pdf
