@@ -20,3 +20,8 @@ selfAttentionPooling/data/DD/DD_graph_labels.txt
 .gitignore
 selfAttentionPooling/data/DD/DD_node_labels.txt
 selfAttentionPooling/data/DD/README.txt
+autoEncoder/data/ml-100k.zip
+autoEncoder/__pycache__/autoencoder.cpython-37.pyc
+.gitignore
+.gitignore
+autoEncoder/__pycache__/dataset.cpython-37.pyc
